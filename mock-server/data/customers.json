@@ -1,0 +1,222 @@
+[
+  {
+    "customer_id": "cust_001",
+    "first_name": "Alice",
+    "last_name": "Smith",
+    "email": "alice.smith1@example.com",
+    "phone": "+12173928879",
+    "address": "238 Main St, USA",
+    "date_of_birth": "1981-02-02",
+    "account_balance": 3232.54,
+    "created_at": "2026-01-21T09:56:28.824327"
+  },
+  {
+    "customer_id": "cust_002",
+    "first_name": "Olivia",
+    "last_name": "Anderson",
+    "email": "olivia.anderson2@example.com",
+    "phone": "+18071914778",
+    "address": "90 Main St, USA",
+    "date_of_birth": "1982-03-03",
+    "account_balance": 4971.31,
+    "created_at": "2026-01-21T09:56:28.824327"
+  },
+  {
+    "customer_id": "cust_003",
+    "first_name": "Jane",
+    "last_name": "Johnson",
+    "email": "jane.johnson3@example.com",
+    "phone": "+19837399238",
+    "address": "41 Main St, USA",
+    "date_of_birth": "1983-04-04",
+    "account_balance": 4487.79,
+    "created_at": "2026-01-21T09:56:28.824327"
+  },
+  {
+    "customer_id": "cust_004",
+    "first_name": "Liam",
+    "last_name": "Anderson",
+    "email": "liam.anderson4@example.com",
+    "phone": "+11558582676",
+    "address": "840 Main St, USA",
+    "date_of_birth": "1984-05-05",
+    "account_balance": 2197.56,
+    "created_at": "2026-01-21T09:56:28.824327"
+  },
+  {
+    "customer_id": "cust_005",
+    "first_name": "Alice",
+    "last_name": "Doe",
+    "email": "alice.doe5@example.com",
+    "phone": "+12872891498",
+    "address": "619 Main St, USA",
+    "date_of_birth": "1985-06-06",
+    "account_balance": 1946.02,
+    "created_at": "2026-01-21T09:56:28.825319"
+  },
+  {
+    "customer_id": "cust_006",
+    "first_name": "John",
+    "last_name": "Johnson",
+    "email": "john.johnson6@example.com",
+    "phone": "+15295864711",
+    "address": "897 Main St, USA",
+    "date_of_birth": "1986-07-07",
+    "account_balance": 3187.2,
+    "created_at": "2026-01-21T09:56:28.825319"
+  },
+  {
+    "customer_id": "cust_007",
+    "first_name": "John",
+    "last_name": "Anderson",
+    "email": "john.anderson7@example.com",
+    "phone": "+15062667900",
+    "address": "806 Main St, USA",
+    "date_of_birth": "1987-08-08",
+    "account_balance": 853.83,
+    "created_at": "2026-01-21T09:56:28.825319"
+  },
+  {
+    "customer_id": "cust_008",
+    "first_name": "Bob",
+    "last_name": "Doe",
+    "email": "bob.doe8@example.com",
+    "phone": "+13328723932",
+    "address": "865 Main St, USA",
+    "date_of_birth": "1988-09-09",
+    "account_balance": 2483.51,
+    "created_at": "2026-01-21T09:56:28.825319"
+  },
+  {
+    "customer_id": "cust_009",
+    "first_name": "Bob",
+    "last_name": "Johnson",
+    "email": "bob.johnson9@example.com",
+    "phone": "+12884248624",
+    "address": "753 Main St, USA",
+    "date_of_birth": "1989-10-10",
+    "account_balance": 3026.76,
+    "created_at": "2026-01-21T09:56:28.825319"
+  },
+  {
+    "customer_id": "cust_010",
+    "first_name": "Bob",
+    "last_name": "Anderson",
+    "email": "bob.anderson10@example.com",
+    "phone": "+15755628495",
+    "address": "325 Main St, USA",
+    "date_of_birth": "1990-11-11",
+    "account_balance": 289.38,
+    "created_at": "2026-01-21T09:56:28.825319"
+  },
+  {
+    "customer_id": "cust_011",
+    "first_name": "Emma",
+    "last_name": "Smith",
+    "email": "emma.smith11@example.com",
+    "phone": "+17479820584",
+    "address": "698 Main St, USA",
+    "date_of_birth": "1991-12-12",
+    "account_balance": 856.21,
+    "created_at": "2026-01-21T09:56:28.825319"
+  },
+  {
+    "customer_id": "cust_012",
+    "first_name": "Jane",
+    "last_name": "Anderson",
+    "email": "jane.anderson12@example.com",
+    "phone": "+12990740068",
+    "address": "513 Main St, USA",
+    "date_of_birth": "1992-01-13",
+    "account_balance": 4916.88,
+    "created_at": "2026-01-21T09:56:28.825319"
+  },
+  {
+    "customer_id": "cust_013",
+    "first_name": "Liam",
+    "last_name": "Anderson",
+    "email": "liam.anderson13@example.com",
+    "phone": "+15621196636",
+    "address": "981 Main St, USA",
+    "date_of_birth": "1993-02-14",
+    "account_balance": 538.19,
+    "created_at": "2026-01-21T09:56:28.825319"
+  },
+  {
+    "customer_id": "cust_014",
+    "first_name": "Olivia",
+    "last_name": "Taylor",
+    "email": "olivia.taylor14@example.com",
+    "phone": "+16881460126",
+    "address": "330 Main St, USA",
+    "date_of_birth": "1994-03-15",
+    "account_balance": 3113.45,
+    "created_at": "2026-01-21T09:56:28.825319"
+  },
+  {
+    "customer_id": "cust_015",
+    "first_name": "Jane",
+    "last_name": "Taylor",
+    "email": "jane.taylor15@example.com",
+    "phone": "+11790888598",
+    "address": "837 Main St, USA",
+    "date_of_birth": "1995-04-16",
+    "account_balance": 4442.57,
+    "created_at": "2026-01-21T09:56:28.825319"
+  },
+  {
+    "customer_id": "cust_016",
+    "first_name": "Olivia",
+    "last_name": "Doe",
+    "email": "olivia.doe16@example.com",
+    "phone": "+11177039420",
+    "address": "703 Main St, USA",
+    "date_of_birth": "1996-05-17",
+    "account_balance": 4928.26,
+    "created_at": "2026-01-21T09:56:28.825319"
+  },
+  {
+    "customer_id": "cust_017",
+    "first_name": "Charlie",
+    "last_name": "Anderson",
+    "email": "charlie.anderson17@example.com",
+    "phone": "+13828805103",
+    "address": "774 Main St, USA",
+    "date_of_birth": "1997-06-18",
+    "account_balance": 1577.78,
+    "created_at": "2026-01-21T09:56:28.825319"
+  },
+  {
+    "customer_id": "cust_018",
+    "first_name": "Bob",
+    "last_name": "Smith",
+    "email": "bob.smith18@example.com",
+    "phone": "+14284490636",
+    "address": "383 Main St, USA",
+    "date_of_birth": "1998-07-19",
+    "account_balance": 4046.07,
+    "created_at": "2026-01-21T09:56:28.825319"
+  },
+  {
+    "customer_id": "cust_019",
+    "first_name": "Bob",
+    "last_name": "Johnson",
+    "email": "bob.johnson19@example.com",
+    "phone": "+13884541963",
+    "address": "882 Main St, USA",
+    "date_of_birth": "1999-08-20",
+    "account_balance": 4362.97,
+    "created_at": "2026-01-21T09:56:28.825319"
+  },
+  {
+    "customer_id": "cust_020",
+    "first_name": "John",
+    "last_name": "Taylor",
+    "email": "john.taylor20@example.com",
+    "phone": "+19469616402",
+    "address": "56 Main St, USA",
+    "date_of_birth": "1980-09-21",
+    "account_balance": 3828.95,
+    "created_at": "2026-01-21T09:56:28.825319"
+  }
+]
